@@ -48,3 +48,4 @@ This command will start the scraping process and once 100 products are scraped, 
 
 ## Exporting Data
 The program will automatically export the scraped data to a CSV file named products.csv in the root directory once the scraping is complete.
+
